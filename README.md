@@ -1,93 +1,126 @@
-# Ebook
-Ebook foi gerado por IA, e diagramado por humano. 
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
-
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
-
-
 <p align="center">
 <img 
     src="./assets/cover.png"
-    width="400"  
+    width="300"
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+<p align="center">
+<a href="https://dio.me/">
+    <img 
+        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+        alt="DIO - Code The Future">
+</a>
+<a href="https://dio.me/">
+<img 
+    src="https://img.shields.io/badge/🎧_PODCAST_GERADO_POR_IA-FF5E72" 
+    alt="🎧 PODCAST GERADO POR IA">
+</a>
+</p>
 
+<p align="center">
+    🎙️ Preview do Podcast
+</p>
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+<div align="center">
+    <audio src="./audio/haki-do-codigo.mp3" controls title="Haki do Código - Podcast"></audio>
+</div>
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+---
 
-<a href="https://github.com/BrunoWil/Ebook/blob/main/output/ANGULAR-compactado.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+# 🏴‍☠️ Haki do Código – Desperte o Angular Supremo  
+
+> ℹ️ **NOTE:** Este projeto foi desenvolvido como desafio da [DIO (Digital Innovation One)](https://dio.me), unindo criatividade, inteligência artificial e engenharia de software.
+
+Este projeto transforma o aprendizado do **Angular** em uma **jornada narrativa e imersiva**, unindo o poder da IA para gerar roteiro, narração e ambientação sonora.  
+Inspirado em aventuras marítimas, o podcast leva o ouvinte a explorar os **mares do TypeScript**, os **ventos dos componentes** e os **tesouros escondidos dos módulos e pipes**.  
+
+---
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [Copilot](https://copilot.microsoft.com/)
-- [Canvas](https://www.canva.com/)
+- [ChatGPT](https://chat.openai.com/) → geração de roteiro e prompts  
+- [ElevenLabs](https://beta.elevenlabs.io/) → geração do áudio com voz natural (tom épico e cinematográfico)  
+- [CapCut](https://www.capcut.com/pt-br/) → edição e mixagem de som (trilha, efeitos e cortes)  
+- [MidJourney](https://www.midjourney.com/app/) → geração da arte de capa  
+- [GitHub](https://github.com/) → versionamento e publicação  
 
-## 🧠 Prompts
+---
 
+## ✨ Como foi feito?
 
-ChatGPT：
+- 🎬 **Roteiro**: gerado via *ChatGPT*, com base no eBook `ANGULAR_compressed.pdf`  
+- 🎙️ **Áudio**: produzido pela *ElevenLabs* (voz em português natural, tom épico)  
+- 🖼️ **Capa**: criada com *MidJourney*, com tema pirata e futurista  
+- 🎚️ **Edição**: feita no *CapCut*, com trilha de mar, vento e instrumentos acústicos  
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de angular, o ebook é do nicho de programação e o subnicho é de angular, o título deve ser épico e curto, e tenha uma temática de one piece no título, me liste 5 variações de títulos|
-| conteúdo | Faça um texto para ebook , Haki do Código: Desperte o Angular Supremo, Explique sempre de uma maneira simples Deixe o texto enxuto para iniciante, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+---
 
+## 📚 Materiais e Referências
 
-Copilot：
+- [Angular – Documentação Oficial](https://angular.io/docs)  
+- [Node.js – Site Oficial](https://nodejs.org/)  
+- [Desafio DIO – Podcast IA](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia)  
+- [Perfil do Autor – Bruno Wilson](https://github.com/BrunoWil)  
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | Crie uma imagem de um luffy animado para uma aventura no angular, pixel art style |
+---
 
-## ✨ Features
+## 🛠️ Instruções de Execução
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via Copilot
+Siga os passos para recriar ou adaptar o projeto:
 
-## 📚 Materiais
+1. 🎧 **Baixe o áudio** e adicione-o à pasta `/audio`:
+   ```
+   /audio/haki-do-codigo.mp3
+   ```
+2. 🧠 **Use os prompts abaixo** no ChatGPT para gerar roteiros personalizados:
+   ```text
+   1️⃣ “faça um podcast com esse pdf como esta nesse link do github”
+   2️⃣ “gere o roteriro e crie o audio ja pronto para uso”
+   3️⃣ “colo que tudo em um mark down para colocar no github inclusive os inputs enviados aqui, na voz a narração em português natural (Brasil) tom mais épico/cinemático”
+   ```
+3. 🗣️ **Envie o roteiro para o ElevenLabs** e gere o áudio narrado.  
+4. 🎵 **Edite o áudio no CapCut** com trilha e ambientação.  
+5. 🚀 **Publique no GitHub** e compartilhe o link do repositório.  
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+---
 
-## 🛠️ Instruções de execução
+## 🧾 Estrutura do Projeto
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+```
+📦 Haki-do-Codigo
+├── assets/
+│   └── cover.png
+├── audio/
+│   └── haki-do-codigo.mp3
+├── ANGULAR_compressed.pdf
+├── Haki_do_Codigo_Podcast.md
+└── README.md
+```
 
-## 👨‍💻 Expert
+---
+
+## 👨‍💻 Autor
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/BrunoWil/Ebook/blob/main/assets/Copilot_20250609_092523.png"
+      src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/BrunoWil">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/bruno-wilson-moura-0a1031168">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/__mr.wilson/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+    <p>&nbsp;&nbsp;&nbsp;Bruno Wilson<br>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/BrunoWil">GitHub</a>
+    &nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/bruno-wilson">LinkedIn</a>
+    &nbsp;|&nbsp;
+    <a href="mailto:Bruno.wilson.m@gmail.com">Email</a>
+    &nbsp;|&nbsp;
+    <a href="https://www.instagram.com/">Instagram</a>
+    </p>
 </p>
-<br/><br/>
-<p>
 
 ---
 
-⌨️ Adaptado com 💜 por [Bruno](https://github.com/BrunoWil)
+⌨️ com 💜 por [Bruno Wilson](https://github.com/BrunoWil)
